@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lavalmc/lavalmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/lavalmc">
+    <img width="264" height="264" alt="ascii-art" src="https://github.com/user-attachments/assets/abca86c3-e366-4869-bff4-9c0528b0c8a2" />
+  </a>
 
-Here are some ideas to get you started:
+  <h1>Laval</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    A Minecraft fan in all domains 😏<br>
+    French 🇫🇷 but speak English 🇬🇧
+  </p>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://modrinth.com/user/laval">
+      <img src="https://komarev.com/ghpvc/?username=lavalmc&label=Profile%20Views&color=ff6a00" alt="Profile views" />
+    </a>
+    <a href="https://modrinth.com/user/laval">
+      <img src="https://img.shields.io/badge/Modrinth%20Downloads-1-brightgreen?logo=modrinth&logoColor=brightgreen" alt="Modrinth downloads" />
+    </a>
+  </p>
+
+</div>
