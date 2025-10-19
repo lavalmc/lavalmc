@@ -13,7 +13,7 @@
 
   <!-- Badges -->
   <p>
-    <a href="https://modrinth.com/user/laval">
+    <a href="https://github.com/lavalmc">
       <img src="https://komarev.com/ghpvc/?username=lavalmc&label=Profile%20Views&color=ff6a00" alt="Profile views" />
     </a>
     <a href="https://modrinth.com/user/laval">
